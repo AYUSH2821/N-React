@@ -12,3 +12,19 @@ Window + ; for inserting emojis
 - Minification
 - Bundling
 - Image Optimization
+
+# Food App
+
+Header
+Logo
+Nav-Items
+
+Body
+Search bar
+Restro Card
+
+Footer
+Copyright
+Links
+Address
+contact
